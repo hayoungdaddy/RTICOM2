@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icon/StaIconPupple.png</file>
+        <file>Icon/StaIconGreen.png</file>
+        <file>Icon/StaIconBlue.png</file>
+        <file>Icon/StaIconRed.png</file>
+        <file>Icon/eewEventMarker.png</file>
+	<file>Icon/rticom2Title.png</file>
+        <file>ViewMap.qml</file>
+        <file>SetSta.qml</file>
+        <file>MapSliders.qml</file>
+        <file>StaCircle.qml</file>
+        <file>StaMarker.qml</file>
+        <file>EEWStarMarker.qml</file>
+    </qresource>
+</RCC>
